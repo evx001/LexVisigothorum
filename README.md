@@ -1,2 +1,2 @@
 # LexVisigothorum
-A Way of Moving Forward 
+Way Forward 
